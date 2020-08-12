@@ -1,0 +1,26 @@
+#view_table
+{
+	border-style:solid;
+	border-color:navy;
+	width:500px;
+}
+#row_tb 
+{
+	background-color:red;
+}
+#row_tb2 
+{
+	background-color:orange;
+}
+#row_tb3
+{
+	background-color:yellow;
+}
+#row_tb4
+{
+	background-color:teal;
+}
+#row_tb1
+{
+	background-color:gray;
+}
